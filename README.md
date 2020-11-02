@@ -1,4 +1,4 @@
-# An Analysis of various 'green energy' stocks and their associated performance. The data from these stocks will be analyzed for the years 2017 and 2018. VBA Macros have 
+# An Analysis of various 'green energy' stocks and their associated annual returns. The data from these stocks will be analyzed for the years 2017 and 2018. VBA Macros have 
 been coded into these excel documents in order to automate certain tasks. 
 
 ## OVERVIEW: The purpose of this analysis is to use Excel's powerful VBA software to automate and simplify investment decisions. The overall goal in this assignment is to provide
