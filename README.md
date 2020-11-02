@@ -1,4 +1,5 @@
-# An Analysis of various 'green energy' stocks and their associated annual returns. The data from these stocks will be analyzed for the years 2017 and 2018.
+# An analysis of various 'green energy' stocks and their associated annual returns. 
+The data from these stocks will be analyzed for the years 2017 and 2018.
 VBA Macros have been included in excel files. 
 
 ## OVERVIEW: 
